@@ -4,7 +4,117 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10df5578-9683-437d-8642-2fbf936877f4" name="Default Changelist" comment="" />
+    <list default="true" id="10df5578-9683-437d-8642-2fbf936877f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Events/ChatEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/ChatController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/js/components/message.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/chat.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/webpack.mix.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +123,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/chat/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,6 +241,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kD4FR4Z0lHBRGA3TfhCxU3rlXB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,7 +261,7 @@
       <updated>1605221723649</updated>
       <workItem from="1605221724671" duration="13525000" />
       <workItem from="1605270974045" duration="7553000" />
-      <workItem from="1605278608176" duration="1323000" />
+      <workItem from="1605278608176" duration="2550000" />
     </task>
     <servers />
   </component>
@@ -155,6 +269,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1318" y="421" key="Github.ShareDialog" timestamp="1605279998544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1318" y="421" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605279998544" />
+    <state x="1209" y="213" key="Github.UntrackedFilesDialog" timestamp="1605280017598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1209" y="213" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605280017598" />
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1605278779392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
